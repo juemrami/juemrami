@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juemrami
-- 👀 I’m interested in ... AI and Machine Learning, Literally brand new
-- 🌱 I’m currently learning ... python, scala, pytorch
+- 👀 I’m interested in ... AI/Machine Learning, Blockchain, and Security
+- 🌱 I’m currently learning ... solidity, NEAR, solana, rust
 - 💞️ I’m looking to collaborate on ... anything
 
 <!---
