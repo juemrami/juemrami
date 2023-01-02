@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juemrami
-- 👀 I’m interested in ... AI/Machine Learning, Blockchain, and Security
-- 🌱 I’m currently learning ... solidity, NEAR, solana, rust
+- 👀 I’m interested in ... AI/Machine Learning, and Web Dev
+- 🌱 I’m currently learning ... tesnorflow, pytorch, DL in general.
 - 💞️ I’m looking to collaborate on ... anything
 
 <!---
