@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @juemrami
 - 👀 I’m interested in ... AI/Machine Learning, and Web Dev
-- 🌱 I’m currently learning ... zig, web workers, js build tools, godot.
-- 💞️ I’m looking to collab or chat on discord @big_sxy
+- 🌱 I’m currently learning ... zig, effect-ts, js build tools, nix-shell.
+- 💞️ I’m looking to collab or chat on discord @bigsxy
 - Open for work!
 
 <!---
